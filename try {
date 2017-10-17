@@ -1,0 +1,1 @@
+PrintWriter fichier = new PrintWriter(new FileWriter("monfichier.txt" ), false);
